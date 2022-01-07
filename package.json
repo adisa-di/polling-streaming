@@ -1,0 +1,24 @@
+{
+  "name": "polling-and-streaming",
+  "version": "1.0.0",
+  "description": "example polling & streaming application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adisa-di/polling-streaming.git"
+  },
+  "author": "adisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adisa-di/polling-streaming/issues"
+  },
+  "homepage": "https://github.com/adisa-di/polling-streaming#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "express-ws": "^5.0.2"
+  }
+}
